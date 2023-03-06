@@ -1,5 +1,8 @@
 # pprof
 pprof for sem02 is-105 uia
+
+
+
 wordcount01 =
 svg001(Bruker (profile.CPUProfile, profile.ProfilePath(".")).Stop()),
 svg002(Bruker (profile.MemProfile, profile.ProfilePath(".")).Stop()),
